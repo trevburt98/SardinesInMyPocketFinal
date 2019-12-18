@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Menu.unity
+    guid: f7d5a949c66300442a13734dd42d8641
+  - enabled: 1
+    path: Assets/Scenes/Obama.unity
+    guid: ef551c55094027a41936e7fc3087c749
+  - enabled: 1
+    path: Assets/Resources/ParkerResources/ParkerScenes/ParkerPuzzlePocket.unity
+    guid: 6d1ef832b1531114cb65f8b889a5e3b0
+  - enabled: 1
+    path: Assets/Scenes/JoeyPocket.unity
+    guid: 632f29f34024c4943b79fe4f48c7a3b5
+  - enabled: 1
+    path: Assets/Scenes/SlideyGuy.unity
+    guid: 50657bc43bdff694c93d7fdde20ed931
+  - enabled: 1
+    path: Assets/Scenes/Maze Pocket.unity
+    guid: cdf8028866df00740bfdd19f14bcf0ad
+  - enabled: 1
+    path: Assets/Scenes/EndScreen.unity
+    guid: a6c518644d35af2438bc298658a9afc0
+  m_configObjects: {}
